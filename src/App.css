@@ -1,38 +1,74 @@
-.App {
+.content {
+  margin-top: 50px;
+  padding: 0 10px;
+}
+
+.heart-wrapper {
   text-align: center;
+  height: 170px;
+  line-height: 225px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.heart {
+  background-color: #9b091d;
+  display: inline-block;
+  height: 50px;
+  transform: scale(1.5) rotate(-45deg);
+  margin: auto;
+  width: 50px;
+  animation: heartbeat 1s infinite;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.heart:before,
+.heart:after {
+  content: "";
+  background-color: #9b091d;
+  border-radius: 50%;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+}
+
+.heart:before {
+  top: -25px;
+  left: 0;
+}
+
+.heart:after {
+  left: 25px;
+  top: 0;
+}
+
+@keyframes heartbeat {
+  100% {
+    transform: scale(1.5) rotate(-45deg);
+  }
+  80% {
+    transform: scale(1.25) rotate(-45deg);
+  }
+  60% {
+    transform: scale(1) rotate(-45deg);
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.title {
   color: white;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 800;
 }
 
-.App-link {
-  color: #61dafb;
+.beats {
+  color: white;
+  font-size: 60px;
+  line-height: 60px;
+  text-align: center;
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.beats-label {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 800;
 }
