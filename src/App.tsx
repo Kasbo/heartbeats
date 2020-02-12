@@ -24,8 +24,7 @@ function Beats({shouldVibrate} : BeatsProps): JSX.Element {
       setBeats(nextBeats);
 
       if (shouldVibrate) {
-        window.navigator.vibrate(200);
-        console.log('vibrating');
+        window.navigator.vibrate(100);
       }
     }, 1000);
 
