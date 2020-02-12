@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heartbeats/static/css/main.bab678a4.chunk.css",
+    "main.js": "/heartbeats/static/js/main.b28332cf.chunk.js",
+    "main.js.map": "/heartbeats/static/js/main.b28332cf.chunk.js.map",
+    "runtime-main.js": "/heartbeats/static/js/runtime-main.732abdee.js",
+    "runtime-main.js.map": "/heartbeats/static/js/runtime-main.732abdee.js.map",
+    "static/js/2.6cdde535.chunk.js": "/heartbeats/static/js/2.6cdde535.chunk.js",
+    "static/js/2.6cdde535.chunk.js.map": "/heartbeats/static/js/2.6cdde535.chunk.js.map",
+    "index.html": "/heartbeats/index.html",
+    "precache-manifest.3580ccca77c32cc39ebdf03891727faf.js": "/heartbeats/precache-manifest.3580ccca77c32cc39ebdf03891727faf.js",
+    "service-worker.js": "/heartbeats/service-worker.js",
+    "static/css/main.bab678a4.chunk.css.map": "/heartbeats/static/css/main.bab678a4.chunk.css.map",
+    "static/js/2.6cdde535.chunk.js.LICENSE.txt": "/heartbeats/static/js/2.6cdde535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.732abdee.js",
+    "static/js/2.6cdde535.chunk.js",
+    "static/css/main.bab678a4.chunk.css",
+    "static/js/main.b28332cf.chunk.js"
+  ]
+}
