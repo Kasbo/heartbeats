@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f1054b4-e922-4ea7-a365-03e56d94fa51" name="Default Changelist" comment="" />
+    <list default="true" id="6f1054b4-e922-4ea7-a365-03e56d94fa51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="heartbeat" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XRmYsalGCJpNsAvWJrRA1miuOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -17,8 +28,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -43,10 +56,72 @@
       <option name="presentableId" value="Default" />
       <updated>1581017331481</updated>
       <workItem from="1581017333363" duration="53000" />
+      <workItem from="1581017549937" duration="603000" />
+      <workItem from="1581018211138" duration="3693000" />
+      <workItem from="1581022006259" duration="4001000" />
+      <workItem from="1581520809791" duration="1420000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1581025792004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581025792005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Setup gh pages">
+      <created>1581025994626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581025994626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upd package.json">
+      <created>1581521007048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581521007048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upd title, fix layout">
+      <created>1581522366007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581522366007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <MESSAGE value="Setup gh pages" />
+    <MESSAGE value="Upd package.json" />
+    <MESSAGE value="Upd title, fix layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upd title, fix layout" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1581522522570">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581522522570" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1581522367496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581522367496" />
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581024224149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1581024224149" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1581022520168">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1581022520168" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581522224984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581522224984" />
   </component>
 </project>
